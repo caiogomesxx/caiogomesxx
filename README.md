@@ -19,6 +19,7 @@
 <div> 
  
   <a href="https://instagram.com/caio.fabio_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+   <a href="https://api.whatsapp.com/send?phone=5531993087574&text=Ol%C3%A1" target="_blank"><img src="https://img.shields.io/badge/-Whatsapp-%34af23?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   <a href = "mailto:caiofabio250@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/caio-fabio-478baa1a8/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
